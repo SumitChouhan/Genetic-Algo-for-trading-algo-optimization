@@ -1,0 +1,2753 @@
+['Checkpoint'] Train Accuracy: 0.492
+Test Accuracy: 0.478
+True Positive Rate: 0.405
+True Negative Rate: 0.599
+
+
+
+
+['PSAR'] Train Accuracy: 0.542
+Test Accuracy: 0.548
+True Positive Rate: 0.101
+True Negative Rate: 0.447
+
+
+
+
+['SMBA'] Train Accuracy: 0.479
+Test Accuracy: 0.476
+True Positive Rate: 0.252
+True Negative Rate: 0.224
+
+
+
+
+['OLS'] Train Accuracy: 0.542
+Test Accuracy: 0.548
+True Positive Rate: 0.101
+True Negative Rate: 0.447
+
+
+
+
+['Candle_height'] Train Accuracy: 0.761
+Test Accuracy: 0.514
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['OLS_Val_min'] Train Accuracy: 0.778
+Test Accuracy: 0.523
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['OLS_Val_max'] Train Accuracy: 0.782
+Test Accuracy: 0.510
+True Positive Rate: 0.393
+True Negative Rate: 0.589
+
+
+
+
+['OLS_Val_mean'] Train Accuracy: 0.724
+Test Accuracy: 0.515
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['OLS_Val'] Train Accuracy: 0.735
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSARVal_Momentum_5_min'] Train Accuracy: 0.811
+Test Accuracy: 0.516
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['PSARVal_Momentum_5_max'] Train Accuracy: 0.821
+Test Accuracy: 0.523
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSARVal_Momentum_5_mean'] Train Accuracy: 0.792
+Test Accuracy: 0.512
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSARVal_Momentum_5'] Train Accuracy: 0.787
+Test Accuracy: 0.516
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSARVal_Momentum_10_min'] Train Accuracy: 0.816
+Test Accuracy: 0.513
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSARVal_Momentum_10_max'] Train Accuracy: 0.824
+Test Accuracy: 0.526
+True Positive Rate: 0.409
+True Negative Rate: 0.599
+
+
+
+
+['PSARVal_Momentum_10_mean'] Train Accuracy: 0.775
+Test Accuracy: 0.509
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSARVal_Momentum_10'] Train Accuracy: 0.806
+Test Accuracy: 0.514
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSARVal_Momentum_15_min'] Train Accuracy: 0.809
+Test Accuracy: 0.511
+True Positive Rate: 0.398
+True Negative Rate: 0.592
+
+
+
+
+['PSARVal_Momentum_15_max'] Train Accuracy: 0.816
+Test Accuracy: 0.528
+True Positive Rate: 0.415
+True Negative Rate: 0.603
+
+
+
+
+['PSARVal_Momentum_15_mean'] Train Accuracy: 0.764
+Test Accuracy: 0.514
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSARVal_Momentum_15'] Train Accuracy: 0.788
+Test Accuracy: 0.515
+True Positive Rate: 0.407
+True Negative Rate: 0.599
+
+
+
+
+['PSARVal_Momentum_20_min'] Train Accuracy: 0.797
+Test Accuracy: 0.522
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSARVal_Momentum_20_max'] Train Accuracy: 0.803
+Test Accuracy: 0.522
+True Positive Rate: 0.412
+True Negative Rate: 0.602
+
+
+
+
+['PSARVal_Momentum_20_mean'] Train Accuracy: 0.748
+Test Accuracy: 0.515
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSARVal_Momentum_20'] Train Accuracy: 0.765
+Test Accuracy: 0.513
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSARVal_Momentum_25_min'] Train Accuracy: 0.792
+Test Accuracy: 0.519
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSARVal_Momentum_25_max'] Train Accuracy: 0.797
+Test Accuracy: 0.513
+True Positive Rate: 0.397
+True Negative Rate: 0.591
+
+
+
+
+['PSARVal_Momentum_25_mean'] Train Accuracy: 0.738
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSARVal_Momentum_25'] Train Accuracy: 0.751
+Test Accuracy: 0.515
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR_ValDiff_min'] Train Accuracy: 0.872
+Test Accuracy: 0.533
+True Positive Rate: 0.409
+True Negative Rate: 0.599
+
+
+
+
+['PSAR_ValDiff_max'] Train Accuracy: 0.862
+Test Accuracy: 0.501
+True Positive Rate: 0.394
+True Negative Rate: 0.588
+
+
+
+
+['PSAR_ValDiff_mean'] Train Accuracy: 0.941
+Test Accuracy: 0.516
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR_ValDiff'] Train Accuracy: 0.930
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR_ValDiff_Momentum_5_min'] Train Accuracy: 0.834
+Test Accuracy: 0.533
+True Positive Rate: 0.412
+True Negative Rate: 0.601
+
+
+
+
+['PSAR_ValDiff_Momentum_5_max'] Train Accuracy: 0.823
+Test Accuracy: 0.529
+True Positive Rate: 0.419
+True Negative Rate: 0.607
+
+
+
+
+['PSAR_ValDiff_Momentum_5_mean'] Train Accuracy: 0.766
+Test Accuracy: 0.512
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR_ValDiff_Momentum_5'] Train Accuracy: 0.825
+Test Accuracy: 0.513
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR_ValDiff_Momentum_10_min'] Train Accuracy: 0.812
+Test Accuracy: 0.525
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR_ValDiff_Momentum_10_max'] Train Accuracy: 0.801
+Test Accuracy: 0.522
+True Positive Rate: 0.412
+True Negative Rate: 0.602
+
+
+
+
+['PSAR_ValDiff_Momentum_10_mean'] Train Accuracy: 0.722
+Test Accuracy: 0.513
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR_ValDiff_Momentum_10'] Train Accuracy: 0.779
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR_ValDiff_Momentum_15_min'] Train Accuracy: 0.783
+Test Accuracy: 0.521
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR_ValDiff_Momentum_15_max'] Train Accuracy: 0.776
+Test Accuracy: 0.514
+True Positive Rate: 0.404
+True Negative Rate: 0.597
+
+
+
+
+['PSAR_ValDiff_Momentum_15_mean'] Train Accuracy: 0.694
+Test Accuracy: 0.521
+True Positive Rate: 0.409
+True Negative Rate: 0.600
+
+
+
+
+['PSAR_ValDiff_Momentum_15'] Train Accuracy: 0.726
+Test Accuracy: 0.515
+True Positive Rate: 0.407
+True Negative Rate: 0.599
+
+
+
+
+['PSAR_ValDiff_Momentum_20_min'] Train Accuracy: 0.758
+Test Accuracy: 0.523
+True Positive Rate: 0.399
+True Negative Rate: 0.593
+
+
+
+
+['PSAR_ValDiff_Momentum_20_max'] Train Accuracy: 0.748
+Test Accuracy: 0.514
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR_ValDiff_Momentum_20_mean'] Train Accuracy: 0.668
+Test Accuracy: 0.514
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['PSAR_ValDiff_Momentum_20'] Train Accuracy: 0.686
+Test Accuracy: 0.513
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSAR_ValDiff_Momentum_25_min'] Train Accuracy: 0.737
+Test Accuracy: 0.518
+True Positive Rate: 0.399
+True Negative Rate: 0.593
+
+
+
+
+['PSAR_ValDiff_Momentum_25_max'] Train Accuracy: 0.728
+Test Accuracy: 0.511
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR_ValDiff_Momentum_25_mean'] Train Accuracy: 0.638
+Test Accuracy: 0.500
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['PSAR_ValDiff_Momentum_25'] Train Accuracy: 0.655
+Test Accuracy: 0.505
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['SMBA_Diff_min'] Train Accuracy: 0.824
+Test Accuracy: 0.520
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['SMBA_Diff_max'] Train Accuracy: 0.841
+Test Accuracy: 0.512
+True Positive Rate: 0.396
+True Negative Rate: 0.591
+
+
+
+
+['SMBA_Diff_mean'] Train Accuracy: 0.827
+Test Accuracy: 0.518
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['SMBA_Diff'] Train Accuracy: 0.840
+Test Accuracy: 0.512
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['SMBA_Diff_Momentum_5_min'] Train Accuracy: 0.757
+Test Accuracy: 0.524
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['SMBA_Diff_Momentum_5_max'] Train Accuracy: 0.753
+Test Accuracy: 0.521
+True Positive Rate: 0.411
+True Negative Rate: 0.602
+
+
+
+
+['SMBA_Diff_Momentum_5_mean'] Train Accuracy: 0.649
+Test Accuracy: 0.530
+True Positive Rate: 0.413
+True Negative Rate: 0.601
+
+
+
+
+['SMBA_Diff_Momentum_5'] Train Accuracy: 0.670
+Test Accuracy: 0.540
+True Positive Rate: 0.418
+True Negative Rate: 0.603
+
+
+
+
+['SMBA_Diff_Momentum_10_min'] Train Accuracy: 0.724
+Test Accuracy: 0.526
+True Positive Rate: 0.412
+True Negative Rate: 0.602
+
+
+
+
+['SMBA_Diff_Momentum_10_max'] Train Accuracy: 0.722
+Test Accuracy: 0.518
+True Positive Rate: 0.412
+True Negative Rate: 0.602
+
+
+
+
+['SMBA_Diff_Momentum_10_mean'] Train Accuracy: 0.643
+Test Accuracy: 0.535
+True Positive Rate: 0.413
+True Negative Rate: 0.601
+
+
+
+
+['SMBA_Diff_Momentum_10'] Train Accuracy: 0.647
+Test Accuracy: 0.531
+True Positive Rate: 0.410
+True Negative Rate: 0.600
+
+
+
+
+['SMBA_Diff_Momentum_15_min'] Train Accuracy: 0.708
+Test Accuracy: 0.525
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['SMBA_Diff_Momentum_15_max'] Train Accuracy: 0.699
+Test Accuracy: 0.523
+True Positive Rate: 0.412
+True Negative Rate: 0.602
+
+
+
+
+['SMBA_Diff_Momentum_15_mean'] Train Accuracy: 0.630
+Test Accuracy: 0.541
+True Positive Rate: 0.413
+True Negative Rate: 0.600
+
+
+
+
+['SMBA_Diff_Momentum_15'] Train Accuracy: 0.640
+Test Accuracy: 0.539
+True Positive Rate: 0.412
+True Negative Rate: 0.600
+
+
+
+
+['SMBA_Diff_Momentum_20_min'] Train Accuracy: 0.689
+Test Accuracy: 0.521
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['SMBA_Diff_Momentum_20_max'] Train Accuracy: 0.692
+Test Accuracy: 0.516
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['SMBA_Diff_Momentum_20_mean'] Train Accuracy: 0.621
+Test Accuracy: 0.535
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['SMBA_Diff_Momentum_20'] Train Accuracy: 0.622
+Test Accuracy: 0.528
+True Positive Rate: 0.408
+True Negative Rate: 0.598
+
+
+
+
+['SMBA_Diff_Momentum_25_min'] Train Accuracy: 0.666
+Test Accuracy: 0.517
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['SMBA_Diff_Momentum_25_max'] Train Accuracy: 0.674
+Test Accuracy: 0.522
+True Positive Rate: 0.411
+True Negative Rate: 0.601
+
+
+
+
+['SMBA_Diff_Momentum_25_mean'] Train Accuracy: 0.571
+Test Accuracy: 0.482
+True Positive Rate: 0.409
+True Negative Rate: 0.605
+
+
+
+
+['SMBA_Diff_Momentum_25'] Train Accuracy: 0.625
+Test Accuracy: 0.538
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['std_pastData_5_min'] Train Accuracy: 0.808
+Test Accuracy: 0.534
+True Positive Rate: 0.416
+True Negative Rate: 0.603
+
+
+
+
+['std_pastData_5_max'] Train Accuracy: 0.850
+Test Accuracy: 0.516
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['std_pastData_5_mean'] Train Accuracy: 0.834
+Test Accuracy: 0.516
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['std_pastData_5'] Train Accuracy: 0.819
+Test Accuracy: 0.511
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['std_pastData_10_min'] Train Accuracy: 0.845
+Test Accuracy: 0.526
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['std_pastData_10_max'] Train Accuracy: 0.858
+Test Accuracy: 0.504
+True Positive Rate: 0.393
+True Negative Rate: 0.588
+
+
+
+
+['std_pastData_10_mean'] Train Accuracy: 0.876
+Test Accuracy: 0.517
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['std_pastData_10'] Train Accuracy: 0.868
+Test Accuracy: 0.514
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['std_pastData_15_min'] Train Accuracy: 0.832
+Test Accuracy: 0.531
+True Positive Rate: 0.409
+True Negative Rate: 0.599
+
+
+
+
+['std_pastData_15_max'] Train Accuracy: 0.870
+Test Accuracy: 0.509
+True Positive Rate: 0.399
+True Negative Rate: 0.592
+
+
+
+
+['std_pastData_15_mean'] Train Accuracy: 0.888
+Test Accuracy: 0.516
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['std_pastData_15'] Train Accuracy: 0.888
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['std_pastData_20_min'] Train Accuracy: 0.816
+Test Accuracy: 0.533
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['std_pastData_20_max'] Train Accuracy: 0.888
+Test Accuracy: 0.512
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['std_pastData_20_mean'] Train Accuracy: 0.890
+Test Accuracy: 0.518
+True Positive Rate: 0.407
+True Negative Rate: 0.599
+
+
+
+
+['std_pastData_20'] Train Accuracy: 0.898
+Test Accuracy: 0.513
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['std_pastData_25_min'] Train Accuracy: 0.817
+Test Accuracy: 0.530
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['std_pastData_25_max'] Train Accuracy: 0.896
+Test Accuracy: 0.510
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['std_pastData_25_mean'] Train Accuracy: 0.894
+Test Accuracy: 0.521
+True Positive Rate: 0.411
+True Negative Rate: 0.601
+
+
+
+
+['std_pastData_25'] Train Accuracy: 0.906
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['std_pastData_30_min'] Train Accuracy: 0.822
+Test Accuracy: 0.531
+True Positive Rate: 0.408
+True Negative Rate: 0.598
+
+
+
+
+['std_pastData_30_max'] Train Accuracy: 0.901
+Test Accuracy: 0.514
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['std_pastData_30_mean'] Train Accuracy: 0.901
+Test Accuracy: 0.517
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['std_pastData_30'] Train Accuracy: 0.907
+Test Accuracy: 0.516
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['std_pastData_40_min'] Train Accuracy: 0.833
+Test Accuracy: 0.525
+True Positive Rate: 0.399
+True Negative Rate: 0.594
+
+
+
+
+['std_pastData_40_max'] Train Accuracy: 0.899
+Test Accuracy: 0.512
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['std_pastData_40_mean'] Train Accuracy: 0.909
+Test Accuracy: 0.513
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['std_pastData_40'] Train Accuracy: 0.916
+Test Accuracy: 0.513
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['std_pastData_50_min'] Train Accuracy: 0.840
+Test Accuracy: 0.524
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['std_pastData_50_max'] Train Accuracy: 0.894
+Test Accuracy: 0.516
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['std_pastData_50_mean'] Train Accuracy: 0.917
+Test Accuracy: 0.516
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['std_pastData_50'] Train Accuracy: 0.923
+Test Accuracy: 0.514
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['zScore_pastData_5_min'] Train Accuracy: 0.862
+Test Accuracy: 0.532
+True Positive Rate: 0.410
+True Negative Rate: 0.599
+
+
+
+
+['zScore_pastData_5_max'] Train Accuracy: 0.872
+Test Accuracy: 0.527
+True Positive Rate: 0.413
+True Negative Rate: 0.602
+
+
+
+
+['zScore_pastData_5_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.519
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['zScore_pastData_5'] Train Accuracy: 0.975
+Test Accuracy: 0.515
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['zScore_pastData_10_min'] Train Accuracy: 0.872
+Test Accuracy: 0.540
+True Positive Rate: 0.420
+True Negative Rate: 0.605
+
+
+
+
+['zScore_pastData_10_max'] Train Accuracy: 0.879
+Test Accuracy: 0.525
+True Positive Rate: 0.409
+True Negative Rate: 0.600
+
+
+
+
+['zScore_pastData_10_mean'] Train Accuracy: 0.997
+Test Accuracy: 0.515
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['zScore_pastData_10'] Train Accuracy: 0.998
+Test Accuracy: 0.517
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['zScore_pastData_15_min'] Train Accuracy: 0.866
+Test Accuracy: 0.530
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['zScore_pastData_15_max'] Train Accuracy: 0.868
+Test Accuracy: 0.519
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['zScore_pastData_15_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.517
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['zScore_pastData_15'] Train Accuracy: 0.998
+Test Accuracy: 0.518
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['zScore_pastData_20_min'] Train Accuracy: 0.862
+Test Accuracy: 0.531
+True Positive Rate: 0.411
+True Negative Rate: 0.600
+
+
+
+
+['zScore_pastData_20_max'] Train Accuracy: 0.865
+Test Accuracy: 0.517
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['zScore_pastData_20_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.515
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['zScore_pastData_20'] Train Accuracy: 0.998
+Test Accuracy: 0.519
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['zScore_pastData_25_min'] Train Accuracy: 0.861
+Test Accuracy: 0.540
+True Positive Rate: 0.423
+True Negative Rate: 0.607
+
+
+
+
+['zScore_pastData_25_max'] Train Accuracy: 0.864
+Test Accuracy: 0.517
+True Positive Rate: 0.397
+True Negative Rate: 0.592
+
+
+
+
+['zScore_pastData_25_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.517
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['zScore_pastData_25'] Train Accuracy: 0.999
+Test Accuracy: 0.519
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['zScore_pastData_30_min'] Train Accuracy: 0.861
+Test Accuracy: 0.530
+True Positive Rate: 0.410
+True Negative Rate: 0.599
+
+
+
+
+['zScore_pastData_30_max'] Train Accuracy: 0.865
+Test Accuracy: 0.519
+True Positive Rate: 0.400
+True Negative Rate: 0.594
+
+
+
+
+['zScore_pastData_30_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.518
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['zScore_pastData_30'] Train Accuracy: 0.999
+Test Accuracy: 0.519
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['zScore_pastData_40_min'] Train Accuracy: 0.863
+Test Accuracy: 0.527
+True Positive Rate: 0.409
+True Negative Rate: 0.600
+
+
+
+
+['zScore_pastData_40_max'] Train Accuracy: 0.870
+Test Accuracy: 0.515
+True Positive Rate: 0.396
+True Negative Rate: 0.591
+
+
+
+
+['zScore_pastData_40_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.513
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['zScore_pastData_40'] Train Accuracy: 0.999
+Test Accuracy: 0.515
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['zScore_pastData_50_min'] Train Accuracy: 0.865
+Test Accuracy: 0.525
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['zScore_pastData_50_max'] Train Accuracy: 0.874
+Test Accuracy: 0.521
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['zScore_pastData_50_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.518
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['zScore_pastData_50'] Train Accuracy: 0.999
+Test Accuracy: 0.516
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['ATR_3'] Train Accuracy: 0.736
+Test Accuracy: 0.508
+True Positive Rate: 0.407
+True Negative Rate: 0.599
+
+
+
+
+['ATR_5'] Train Accuracy: 0.783
+Test Accuracy: 0.517
+True Positive Rate: 0.411
+True Negative Rate: 0.601
+
+
+
+
+['ATR_7'] Train Accuracy: 0.812
+Test Accuracy: 0.511
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['ATR_10'] Train Accuracy: 0.843
+Test Accuracy: 0.516
+True Positive Rate: 0.410
+True Negative Rate: 0.601
+
+
+
+
+['ATR_15'] Train Accuracy: 0.874
+Test Accuracy: 0.516
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['ATR_20'] Train Accuracy: 0.895
+Test Accuracy: 0.513
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['ATR_25'] Train Accuracy: 0.908
+Test Accuracy: 0.517
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['profit_MTM_min'] Train Accuracy: 0.855
+Test Accuracy: 0.524
+True Positive Rate: 0.410
+True Negative Rate: 0.600
+
+
+
+
+['profit_MTM_max'] Train Accuracy: 0.877
+Test Accuracy: 0.512
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['profit_MTM_mean'] Train Accuracy: 0.931
+Test Accuracy: 0.516
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['profit_MTM'] Train Accuracy: 0.951
+Test Accuracy: 0.514
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['profit_MTM_Momentum_5_min'] Train Accuracy: 0.838
+Test Accuracy: 0.523
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['profit_MTM_Momentum_5_max'] Train Accuracy: 0.851
+Test Accuracy: 0.519
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['profit_MTM_Momentum_5_mean'] Train Accuracy: 0.812
+Test Accuracy: 0.513
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['profit_MTM_Momentum_5'] Train Accuracy: 0.840
+Test Accuracy: 0.511
+True Positive Rate: 0.400
+True Negative Rate: 0.593
+
+
+
+
+['profit_MTM_Momentum_10_min'] Train Accuracy: 0.820
+Test Accuracy: 0.533
+True Positive Rate: 0.419
+True Negative Rate: 0.605
+
+
+
+
+['profit_MTM_Momentum_10_max'] Train Accuracy: 0.836
+Test Accuracy: 0.510
+True Positive Rate: 0.396
+True Negative Rate: 0.590
+
+
+
+
+['profit_MTM_Momentum_10_mean'] Train Accuracy: 0.773
+Test Accuracy: 0.513
+True Positive Rate: 0.404
+True Negative Rate: 0.597
+
+
+
+
+['profit_MTM_Momentum_10'] Train Accuracy: 0.801
+Test Accuracy: 0.515
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['profit_MTM_Momentum_15_min'] Train Accuracy: 0.803
+Test Accuracy: 0.524
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['profit_MTM_Momentum_15_max'] Train Accuracy: 0.820
+Test Accuracy: 0.514
+True Positive Rate: 0.397
+True Negative Rate: 0.592
+
+
+
+
+['profit_MTM_Momentum_15_mean'] Train Accuracy: 0.745
+Test Accuracy: 0.511
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['profit_MTM_Momentum_15'] Train Accuracy: 0.774
+Test Accuracy: 0.511
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['profit_MTM_Momentum_20_min'] Train Accuracy: 0.794
+Test Accuracy: 0.520
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['profit_MTM_Momentum_20_max'] Train Accuracy: 0.802
+Test Accuracy: 0.514
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['profit_MTM_Momentum_20_mean'] Train Accuracy: 0.728
+Test Accuracy: 0.510
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['profit_MTM_Momentum_20'] Train Accuracy: 0.755
+Test Accuracy: 0.508
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['profit_MTM_Momentum_25_min'] Train Accuracy: 0.779
+Test Accuracy: 0.520
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['profit_MTM_Momentum_25_max'] Train Accuracy: 0.792
+Test Accuracy: 0.513
+True Positive Rate: 0.393
+True Negative Rate: 0.589
+
+
+
+
+['profit_MTM_Momentum_25_mean'] Train Accuracy: 0.709
+Test Accuracy: 0.508
+True Positive Rate: 0.402
+True Negative Rate: 0.594
+
+
+
+
+['profit_MTM_Momentum_25'] Train Accuracy: 0.738
+Test Accuracy: 0.513
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'Checkpoint'] Train Accuracy: 0.497
+Test Accuracy: 0.483
+True Positive Rate: 0.405
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'SMBA'] Train Accuracy: 0.479
+Test Accuracy: 0.476
+True Positive Rate: 0.252
+True Negative Rate: 0.224
+
+
+
+
+['PSAR', 'OLS'] Train Accuracy: 0.500
+Test Accuracy: 0.500
+True Positive Rate: 0.202
+True Negative Rate: 0.298
+
+
+
+
+['PSAR', 'Candle_height'] Train Accuracy: 0.761
+Test Accuracy: 0.514
+True Positive Rate: 0.408
+True Negative Rate: 0.600
+
+
+
+
+['PSAR', 'OLS_Val_min'] Train Accuracy: 0.778
+Test Accuracy: 0.523
+True Positive Rate: 0.409
+True Negative Rate: 0.600
+
+
+
+
+['PSAR', 'OLS_Val_max'] Train Accuracy: 0.782
+Test Accuracy: 0.509
+True Positive Rate: 0.393
+True Negative Rate: 0.589
+
+
+
+
+['PSAR', 'OLS_Val_mean'] Train Accuracy: 0.724
+Test Accuracy: 0.515
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'OLS_Val'] Train Accuracy: 0.735
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'PSARVal_Momentum_5_min'] Train Accuracy: 0.811
+Test Accuracy: 0.515
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'PSARVal_Momentum_5_max'] Train Accuracy: 0.821
+Test Accuracy: 0.523
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'PSARVal_Momentum_5_mean'] Train Accuracy: 0.792
+Test Accuracy: 0.512
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'PSARVal_Momentum_5'] Train Accuracy: 0.787
+Test Accuracy: 0.516
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'PSARVal_Momentum_10_min'] Train Accuracy: 0.816
+Test Accuracy: 0.514
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'PSARVal_Momentum_10_max'] Train Accuracy: 0.824
+Test Accuracy: 0.527
+True Positive Rate: 0.410
+True Negative Rate: 0.600
+
+
+
+
+['PSAR', 'PSARVal_Momentum_10_mean'] Train Accuracy: 0.776
+Test Accuracy: 0.509
+True Positive Rate: 0.402
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'PSARVal_Momentum_10'] Train Accuracy: 0.806
+Test Accuracy: 0.514
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'PSARVal_Momentum_15_min'] Train Accuracy: 0.809
+Test Accuracy: 0.510
+True Positive Rate: 0.398
+True Negative Rate: 0.592
+
+
+
+
+['PSAR', 'PSARVal_Momentum_15_max'] Train Accuracy: 0.816
+Test Accuracy: 0.528
+True Positive Rate: 0.415
+True Negative Rate: 0.604
+
+
+
+
+['PSAR', 'PSARVal_Momentum_15_mean'] Train Accuracy: 0.764
+Test Accuracy: 0.514
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'PSARVal_Momentum_15'] Train Accuracy: 0.788
+Test Accuracy: 0.515
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'PSARVal_Momentum_20_min'] Train Accuracy: 0.797
+Test Accuracy: 0.522
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'PSARVal_Momentum_20_max'] Train Accuracy: 0.803
+Test Accuracy: 0.522
+True Positive Rate: 0.412
+True Negative Rate: 0.602
+
+
+
+
+['PSAR', 'PSARVal_Momentum_20_mean'] Train Accuracy: 0.748
+Test Accuracy: 0.515
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'PSARVal_Momentum_20'] Train Accuracy: 0.765
+Test Accuracy: 0.513
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'PSARVal_Momentum_25_min'] Train Accuracy: 0.792
+Test Accuracy: 0.519
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'PSARVal_Momentum_25_max'] Train Accuracy: 0.797
+Test Accuracy: 0.514
+True Positive Rate: 0.398
+True Negative Rate: 0.592
+
+
+
+
+['PSAR', 'PSARVal_Momentum_25_mean'] Train Accuracy: 0.738
+Test Accuracy: 0.515
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'PSARVal_Momentum_25'] Train Accuracy: 0.751
+Test Accuracy: 0.515
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'PSAR_ValDiff_min'] Train Accuracy: 0.872
+Test Accuracy: 0.533
+True Positive Rate: 0.409
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'PSAR_ValDiff_max'] Train Accuracy: 0.862
+Test Accuracy: 0.501
+True Positive Rate: 0.394
+True Negative Rate: 0.588
+
+
+
+
+['PSAR', 'PSAR_ValDiff_mean'] Train Accuracy: 0.941
+Test Accuracy: 0.515
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'PSAR_ValDiff'] Train Accuracy: 0.930
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_5_min'] Train Accuracy: 0.834
+Test Accuracy: 0.532
+True Positive Rate: 0.412
+True Negative Rate: 0.601
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_5_max'] Train Accuracy: 0.823
+Test Accuracy: 0.529
+True Positive Rate: 0.419
+True Negative Rate: 0.607
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_5_mean'] Train Accuracy: 0.766
+Test Accuracy: 0.512
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_5'] Train Accuracy: 0.825
+Test Accuracy: 0.512
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_10_min'] Train Accuracy: 0.812
+Test Accuracy: 0.526
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_10_max'] Train Accuracy: 0.801
+Test Accuracy: 0.522
+True Positive Rate: 0.412
+True Negative Rate: 0.602
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_10_mean'] Train Accuracy: 0.722
+Test Accuracy: 0.513
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_10'] Train Accuracy: 0.779
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_15_min'] Train Accuracy: 0.783
+Test Accuracy: 0.522
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_15_max'] Train Accuracy: 0.776
+Test Accuracy: 0.515
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_15_mean'] Train Accuracy: 0.694
+Test Accuracy: 0.519
+True Positive Rate: 0.409
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_15'] Train Accuracy: 0.726
+Test Accuracy: 0.515
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_20_min'] Train Accuracy: 0.758
+Test Accuracy: 0.522
+True Positive Rate: 0.398
+True Negative Rate: 0.593
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_20_max'] Train Accuracy: 0.748
+Test Accuracy: 0.513
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_20_mean'] Train Accuracy: 0.668
+Test Accuracy: 0.514
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_20'] Train Accuracy: 0.687
+Test Accuracy: 0.514
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_25_min'] Train Accuracy: 0.737
+Test Accuracy: 0.518
+True Positive Rate: 0.400
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_25_max'] Train Accuracy: 0.728
+Test Accuracy: 0.511
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_25_mean'] Train Accuracy: 0.638
+Test Accuracy: 0.500
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'PSAR_ValDiff_Momentum_25'] Train Accuracy: 0.655
+Test Accuracy: 0.505
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'SMBA_Diff_min'] Train Accuracy: 0.824
+Test Accuracy: 0.519
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'SMBA_Diff_max'] Train Accuracy: 0.841
+Test Accuracy: 0.513
+True Positive Rate: 0.397
+True Negative Rate: 0.591
+
+
+
+
+['PSAR', 'SMBA_Diff_mean'] Train Accuracy: 0.827
+Test Accuracy: 0.518
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'SMBA_Diff'] Train Accuracy: 0.840
+Test Accuracy: 0.512
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_5_min'] Train Accuracy: 0.757
+Test Accuracy: 0.524
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_5_max'] Train Accuracy: 0.753
+Test Accuracy: 0.521
+True Positive Rate: 0.411
+True Negative Rate: 0.602
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_5_mean'] Train Accuracy: 0.649
+Test Accuracy: 0.530
+True Positive Rate: 0.412
+True Negative Rate: 0.601
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_5'] Train Accuracy: 0.670
+Test Accuracy: 0.540
+True Positive Rate: 0.418
+True Negative Rate: 0.603
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_10_min'] Train Accuracy: 0.725
+Test Accuracy: 0.527
+True Positive Rate: 0.413
+True Negative Rate: 0.602
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_10_max'] Train Accuracy: 0.722
+Test Accuracy: 0.519
+True Positive Rate: 0.413
+True Negative Rate: 0.603
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_10_mean'] Train Accuracy: 0.642
+Test Accuracy: 0.534
+True Positive Rate: 0.412
+True Negative Rate: 0.601
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_10'] Train Accuracy: 0.647
+Test Accuracy: 0.530
+True Positive Rate: 0.409
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_15_min'] Train Accuracy: 0.708
+Test Accuracy: 0.525
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_15_max'] Train Accuracy: 0.699
+Test Accuracy: 0.523
+True Positive Rate: 0.411
+True Negative Rate: 0.601
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_15_mean'] Train Accuracy: 0.630
+Test Accuracy: 0.541
+True Positive Rate: 0.413
+True Negative Rate: 0.600
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_15'] Train Accuracy: 0.640
+Test Accuracy: 0.539
+True Positive Rate: 0.412
+True Negative Rate: 0.600
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_20_min'] Train Accuracy: 0.689
+Test Accuracy: 0.521
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_20_max'] Train Accuracy: 0.692
+Test Accuracy: 0.517
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_20_mean'] Train Accuracy: 0.621
+Test Accuracy: 0.534
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_20'] Train Accuracy: 0.623
+Test Accuracy: 0.528
+True Positive Rate: 0.408
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_25_min'] Train Accuracy: 0.665
+Test Accuracy: 0.517
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_25_max'] Train Accuracy: 0.674
+Test Accuracy: 0.523
+True Positive Rate: 0.412
+True Negative Rate: 0.602
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_25_mean'] Train Accuracy: 0.577
+Test Accuracy: 0.488
+True Positive Rate: 0.409
+True Negative Rate: 0.604
+
+
+
+
+['PSAR', 'SMBA_Diff_Momentum_25'] Train Accuracy: 0.625
+Test Accuracy: 0.539
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'std_pastData_5_min'] Train Accuracy: 0.808
+Test Accuracy: 0.535
+True Positive Rate: 0.417
+True Negative Rate: 0.604
+
+
+
+
+['PSAR', 'std_pastData_5_max'] Train Accuracy: 0.850
+Test Accuracy: 0.517
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'std_pastData_5_mean'] Train Accuracy: 0.835
+Test Accuracy: 0.515
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'std_pastData_5'] Train Accuracy: 0.819
+Test Accuracy: 0.511
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'std_pastData_10_min'] Train Accuracy: 0.845
+Test Accuracy: 0.526
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'std_pastData_10_max'] Train Accuracy: 0.858
+Test Accuracy: 0.504
+True Positive Rate: 0.393
+True Negative Rate: 0.588
+
+
+
+
+['PSAR', 'std_pastData_10_mean'] Train Accuracy: 0.876
+Test Accuracy: 0.517
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'std_pastData_10'] Train Accuracy: 0.868
+Test Accuracy: 0.514
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'std_pastData_15_min'] Train Accuracy: 0.832
+Test Accuracy: 0.532
+True Positive Rate: 0.410
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'std_pastData_15_max'] Train Accuracy: 0.870
+Test Accuracy: 0.509
+True Positive Rate: 0.399
+True Negative Rate: 0.592
+
+
+
+
+['PSAR', 'std_pastData_15_mean'] Train Accuracy: 0.888
+Test Accuracy: 0.516
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'std_pastData_15'] Train Accuracy: 0.888
+Test Accuracy: 0.514
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'std_pastData_20_min'] Train Accuracy: 0.816
+Test Accuracy: 0.532
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'std_pastData_20_max'] Train Accuracy: 0.888
+Test Accuracy: 0.512
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'std_pastData_20_mean'] Train Accuracy: 0.890
+Test Accuracy: 0.518
+True Positive Rate: 0.407
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'std_pastData_20'] Train Accuracy: 0.898
+Test Accuracy: 0.513
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'std_pastData_25_min'] Train Accuracy: 0.817
+Test Accuracy: 0.530
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'std_pastData_25_max'] Train Accuracy: 0.896
+Test Accuracy: 0.509
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'std_pastData_25_mean'] Train Accuracy: 0.894
+Test Accuracy: 0.521
+True Positive Rate: 0.411
+True Negative Rate: 0.601
+
+
+
+
+['PSAR', 'std_pastData_25'] Train Accuracy: 0.906
+Test Accuracy: 0.515
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'std_pastData_30_min'] Train Accuracy: 0.822
+Test Accuracy: 0.531
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'std_pastData_30_max'] Train Accuracy: 0.901
+Test Accuracy: 0.514
+True Positive Rate: 0.407
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'std_pastData_30_mean'] Train Accuracy: 0.901
+Test Accuracy: 0.517
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'std_pastData_30'] Train Accuracy: 0.907
+Test Accuracy: 0.516
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'std_pastData_40_min'] Train Accuracy: 0.833
+Test Accuracy: 0.525
+True Positive Rate: 0.399
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'std_pastData_40_max'] Train Accuracy: 0.899
+Test Accuracy: 0.513
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'std_pastData_40_mean'] Train Accuracy: 0.909
+Test Accuracy: 0.513
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'std_pastData_40'] Train Accuracy: 0.916
+Test Accuracy: 0.513
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'std_pastData_50_min'] Train Accuracy: 0.840
+Test Accuracy: 0.524
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'std_pastData_50_max'] Train Accuracy: 0.894
+Test Accuracy: 0.515
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'std_pastData_50_mean'] Train Accuracy: 0.918
+Test Accuracy: 0.516
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'std_pastData_50'] Train Accuracy: 0.923
+Test Accuracy: 0.515
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'zScore_pastData_5_min'] Train Accuracy: 0.862
+Test Accuracy: 0.531
+True Positive Rate: 0.410
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'zScore_pastData_5_max'] Train Accuracy: 0.872
+Test Accuracy: 0.526
+True Positive Rate: 0.412
+True Negative Rate: 0.601
+
+
+
+
+['PSAR', 'zScore_pastData_5_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.519
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'zScore_pastData_5'] Train Accuracy: 0.975
+Test Accuracy: 0.515
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'zScore_pastData_10_min'] Train Accuracy: 0.872
+Test Accuracy: 0.539
+True Positive Rate: 0.420
+True Negative Rate: 0.605
+
+
+
+
+['PSAR', 'zScore_pastData_10_max'] Train Accuracy: 0.878
+Test Accuracy: 0.525
+True Positive Rate: 0.409
+True Negative Rate: 0.600
+
+
+
+
+['PSAR', 'zScore_pastData_10_mean'] Train Accuracy: 0.997
+Test Accuracy: 0.516
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'zScore_pastData_10'] Train Accuracy: 0.998
+Test Accuracy: 0.517
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'zScore_pastData_15_min'] Train Accuracy: 0.867
+Test Accuracy: 0.530
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'zScore_pastData_15_max'] Train Accuracy: 0.868
+Test Accuracy: 0.519
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'zScore_pastData_15_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.517
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'zScore_pastData_15'] Train Accuracy: 0.998
+Test Accuracy: 0.518
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'zScore_pastData_20_min'] Train Accuracy: 0.862
+Test Accuracy: 0.531
+True Positive Rate: 0.411
+True Negative Rate: 0.600
+
+
+
+
+['PSAR', 'zScore_pastData_20_max'] Train Accuracy: 0.865
+Test Accuracy: 0.517
+True Positive Rate: 0.400
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'zScore_pastData_20_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.515
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'zScore_pastData_20'] Train Accuracy: 0.998
+Test Accuracy: 0.519
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'zScore_pastData_25_min'] Train Accuracy: 0.860
+Test Accuracy: 0.541
+True Positive Rate: 0.423
+True Negative Rate: 0.607
+
+
+
+
+['PSAR', 'zScore_pastData_25_max'] Train Accuracy: 0.864
+Test Accuracy: 0.517
+True Positive Rate: 0.397
+True Negative Rate: 0.592
+
+
+
+
+['PSAR', 'zScore_pastData_25_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.517
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'zScore_pastData_25'] Train Accuracy: 0.999
+Test Accuracy: 0.518
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'zScore_pastData_30_min'] Train Accuracy: 0.861
+Test Accuracy: 0.530
+True Positive Rate: 0.409
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'zScore_pastData_30_max'] Train Accuracy: 0.865
+Test Accuracy: 0.519
+True Positive Rate: 0.400
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'zScore_pastData_30_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.518
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'zScore_pastData_30'] Train Accuracy: 0.999
+Test Accuracy: 0.518
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'zScore_pastData_40_min'] Train Accuracy: 0.863
+Test Accuracy: 0.527
+True Positive Rate: 0.409
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'zScore_pastData_40_max'] Train Accuracy: 0.870
+Test Accuracy: 0.515
+True Positive Rate: 0.396
+True Negative Rate: 0.591
+
+
+
+
+['PSAR', 'zScore_pastData_40_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.513
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'zScore_pastData_40'] Train Accuracy: 0.999
+Test Accuracy: 0.515
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'zScore_pastData_50_min'] Train Accuracy: 0.865
+Test Accuracy: 0.525
+True Positive Rate: 0.408
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'zScore_pastData_50_max'] Train Accuracy: 0.874
+Test Accuracy: 0.521
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'zScore_pastData_50_mean'] Train Accuracy: 0.998
+Test Accuracy: 0.518
+True Positive Rate: 0.406
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'zScore_pastData_50'] Train Accuracy: 0.999
+Test Accuracy: 0.516
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'ATR_3'] Train Accuracy: 0.735
+Test Accuracy: 0.507
+True Positive Rate: 0.407
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'ATR_5'] Train Accuracy: 0.782
+Test Accuracy: 0.517
+True Positive Rate: 0.410
+True Negative Rate: 0.601
+
+
+
+
+['PSAR', 'ATR_7'] Train Accuracy: 0.812
+Test Accuracy: 0.511
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'ATR_10'] Train Accuracy: 0.843
+Test Accuracy: 0.516
+True Positive Rate: 0.410
+True Negative Rate: 0.601
+
+
+
+
+['PSAR', 'ATR_15'] Train Accuracy: 0.874
+Test Accuracy: 0.516
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'ATR_20'] Train Accuracy: 0.895
+Test Accuracy: 0.512
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'ATR_25'] Train Accuracy: 0.908
+Test Accuracy: 0.516
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'profit_MTM_min'] Train Accuracy: 0.856
+Test Accuracy: 0.524
+True Positive Rate: 0.409
+True Negative Rate: 0.600
+
+
+
+
+['PSAR', 'profit_MTM_max'] Train Accuracy: 0.877
+Test Accuracy: 0.513
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'profit_MTM_mean'] Train Accuracy: 0.931
+Test Accuracy: 0.516
+True Positive Rate: 0.406
+True Negative Rate: 0.598
+
+
+
+
+['PSAR', 'profit_MTM'] Train Accuracy: 0.951
+Test Accuracy: 0.514
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_5_min'] Train Accuracy: 0.838
+Test Accuracy: 0.523
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_5_max'] Train Accuracy: 0.851
+Test Accuracy: 0.519
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_5_mean'] Train Accuracy: 0.812
+Test Accuracy: 0.513
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_5'] Train Accuracy: 0.839
+Test Accuracy: 0.510
+True Positive Rate: 0.400
+True Negative Rate: 0.593
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_10_min'] Train Accuracy: 0.820
+Test Accuracy: 0.533
+True Positive Rate: 0.418
+True Negative Rate: 0.605
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_10_max'] Train Accuracy: 0.836
+Test Accuracy: 0.510
+True Positive Rate: 0.395
+True Negative Rate: 0.590
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_10_mean'] Train Accuracy: 0.773
+Test Accuracy: 0.513
+True Positive Rate: 0.404
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_10'] Train Accuracy: 0.801
+Test Accuracy: 0.514
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_15_min'] Train Accuracy: 0.803
+Test Accuracy: 0.523
+True Positive Rate: 0.408
+True Negative Rate: 0.599
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_15_max'] Train Accuracy: 0.820
+Test Accuracy: 0.515
+True Positive Rate: 0.398
+True Negative Rate: 0.592
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_15_mean'] Train Accuracy: 0.745
+Test Accuracy: 0.511
+True Positive Rate: 0.403
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_15'] Train Accuracy: 0.774
+Test Accuracy: 0.510
+True Positive Rate: 0.402
+True Negative Rate: 0.595
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_20_min'] Train Accuracy: 0.794
+Test Accuracy: 0.520
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_20_max'] Train Accuracy: 0.802
+Test Accuracy: 0.515
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_20_mean'] Train Accuracy: 0.728
+Test Accuracy: 0.510
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_20'] Train Accuracy: 0.756
+Test Accuracy: 0.508
+True Positive Rate: 0.401
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_25_min'] Train Accuracy: 0.779
+Test Accuracy: 0.519
+True Positive Rate: 0.403
+True Negative Rate: 0.596
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_25_max'] Train Accuracy: 0.792
+Test Accuracy: 0.513
+True Positive Rate: 0.393
+True Negative Rate: 0.589
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_25_mean'] Train Accuracy: 0.709
+Test Accuracy: 0.507
+True Positive Rate: 0.402
+True Negative Rate: 0.594
+
+
+
+
+['PSAR', 'profit_MTM_Momentum_25'] Train Accuracy: 0.738
+Test Accuracy: 0.512
+True Positive Rate: 0.405
+True Negative Rate: 0.597
+
+
+
+
+['PSAR'] Train Accuracy: 0.584
+Test Accuracy: 0.596
+True Positive Rate: 0.000
+True Negative Rate: 0.596
+
+
+
+
+The best accuracy obtained was 0.596112143742
